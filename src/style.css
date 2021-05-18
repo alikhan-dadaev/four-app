@@ -1,0 +1,16 @@
+
+.app {
+    margin: auto;
+}
+.number{
+    font-size: 100px;
+    text-align: center;
+    margin: 40px 0;
+}
+.buttons {
+    display: flex;
+    justify-content: space-around;
+}
+button {
+    padding: 10px;
+}
